@@ -44,7 +44,7 @@ public class Shop extends AppCompatActivity {
                 wantedTitle=database1.ListTitle.get(i);
                 wantedAuthor=database1.ListAuthor.get(i);
                 looking=true;
-
+//
             }
 
         }
