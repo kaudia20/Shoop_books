@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">projekt</string>
+    <string name="title">Title:</string>
+    <string name="author">Author:</string>
+    <string name="zapis">Zapis</string>
+    <string name="save">Save</string>
+</resources>
